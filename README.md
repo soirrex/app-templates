@@ -1,4 +1,4 @@
-# Bash script for creating project template
+# Bash script for creating project templates
 
 **Only support nodejs templates, but i may add other languages and templates in the future.**
 
@@ -45,7 +45,7 @@ A Bash script that automatically generates a starter template for projects so yo
 4. OR
    ```bash
    sudo rm -rf /usr/local/bin/appt
-   sudo rm -rf /usr/local/bit/app_templates
+   sudo rm -rf /usr/local/bin/app_templates
    ```
 
 ## How to use it?
