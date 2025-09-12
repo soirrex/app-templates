@@ -5,7 +5,7 @@ install:
 
 	sudo cp ./appt.sh $(APPT_DIR)
 	sudo mv $(APPT_DIR)/appt.sh $(APPT_DIR)/appt
-	sudo cp ./templates -r $(APPT_DIR)/app_templates
+	sudo cp ./templates/. -r $(APPT_DIR)/app_templates
 
 	sudo chmod +x $(APPT_DIR)/appt
 
