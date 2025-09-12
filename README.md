@@ -50,9 +50,15 @@ A Bash script that automatically generates a starter template for projects so yo
 
 ## How to use it?
 
-`appt [template name] [project name]`
+### Commands:
+   - `appt help`: get help
+   - `appt list`: get a list of all templates
+   - `appt list [language]`: get a list of all templates by language
 
-**exapmle:** `appt typescript myapp`
+### Create template:
+   `appt [template name] [project name]`
+   
+   **exapmle:** `appt typescript myapp`
 
 ## What templates does this script support? <a id="templates"></a>
 
