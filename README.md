@@ -9,7 +9,7 @@ A Bash script that automatically generates a starter template for projects so yo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/aqugxs/app-templates.git
+   https://github.com/soirrex/app-templates.git
    ```
 
 2. **Navigate to the Project Folder**
